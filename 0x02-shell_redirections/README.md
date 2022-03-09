@@ -24,3 +24,4 @@
 23-command that finds all empty files and directories in the current directory and all sub-directories.
 24-Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 25-An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet.
+26-Here is an example with one day of logs of the NASA website (1995).
