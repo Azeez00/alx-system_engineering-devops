@@ -18,3 +18,4 @@
 17-tree- a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
 18-commas- a command that lists all the files and directories of the current directory, separated by commas (,).
 19-school.mgc- A Script that create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+20-Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
